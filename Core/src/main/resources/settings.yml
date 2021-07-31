@@ -1,0 +1,4 @@
+settings:
+  whitelist: false
+  proximity_chat: false
+  proximity_chat_distance: 50

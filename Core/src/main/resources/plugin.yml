@@ -1,0 +1,6 @@
+main: nl.trydev07.yahyacraft.yahyacore.YahyaCore
+name: YahyaCore
+version: ${project.version}
+author: TryDev07
+api-version: 1.16
+

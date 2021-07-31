@@ -1,0 +1,5 @@
+settings:
+  location:
+    spawn_point: ""
+    jump_pads: []
+  whitelist: false
