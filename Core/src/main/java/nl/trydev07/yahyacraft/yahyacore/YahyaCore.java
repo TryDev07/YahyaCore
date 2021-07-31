@@ -7,7 +7,6 @@ import net.milkbowl.vault.permission.Permission;
 import nl.trydev07.yahyacraft.common.commands.*;
 import nl.trydev07.yahyacraft.yahyacore.game.listeners.ChatListener;
 import nl.trydev07.yahyacraft.yahyacore.game.listeners.WhitelistListener;
-import nl.trydev07.yahyacraft.yahyacore.settings.YahyaCoreSettings;
 import nl.trydev07.yahyacraft.yahyacore.storage.Resources;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.PluginManager;

@@ -3,7 +3,6 @@ package nl.trydev07.yahyacraft.yahyacore.game.listeners;
 import nl.trydev07.yahyacraft.common.utils.Util;
 import nl.trydev07.yahyacraft.yahyacore.YahyaCore;
 import nl.trydev07.yahyacraft.yahyacore.settings.YahyaCoreSetting;
-import nl.trydev07.yahyacraft.yahyacore.settings.YahyaCoreSettings;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.AsyncPlayerChatEvent;
